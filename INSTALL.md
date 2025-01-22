@@ -2,8 +2,8 @@
 **Step 1.** Install [PyTorch and Torchvision](https://pytorch.org/get-started/previous-versions/)
 
 ```shell
-conda create -n UOV python=3.9
-conda activate UOV
+conda create -n AFOV python=3.9
+conda activate AFOV
 
 ## Optional: install cuda-11.3 in conda environment
 # Install CUDA Toolkit 11.3.0 in https://developer.nvidia.com/cuda-11.3.0-download-archive
